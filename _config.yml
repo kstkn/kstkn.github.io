@@ -1,0 +1,8 @@
+title: notes
+author:
+  name: Sergei Kasatkin
+email: 490653+kstkn@users.noreply.github.com
+theme: minima
+
+plugins:
+  - jekyll-feed
